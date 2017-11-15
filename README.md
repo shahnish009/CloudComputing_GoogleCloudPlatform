@@ -10,7 +10,7 @@
 - Native Google Cloud Instance:
 - Detailed configuration and benchmarking of each environment to analyze the performance
 
-## Software-Defined Networking Techniques
+## Software-Defined Networking Techniques - Cloud
 - Mininet installation and defining custom binary tree topology in PYTHON
 - SDN Controller (POX) installation and connect custom topology to the controller
 - Study of 'of_tutorial' controller and MAC learning controller and with OpenFlow rules
