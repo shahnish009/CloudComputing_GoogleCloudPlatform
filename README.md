@@ -16,3 +16,9 @@
 - Study of 'of_tutorial' controller and MAC learning controller and with OpenFlow rules
 - Check and study the connectivity of different ports by pinging them on each stage
 - Check and study TCP bandwidth between ports by IPERF on each stage
+
+## Exploring OpenStack and it's Advanced Features - Cloud
+- Deploy Cloud platform using OpenStack on Google Cloud Platform (GCP) in CentOS7
+- Components: NOVA Compute Engine, SWIFT Object Storage, CINDER Block Storage, NEUTRON Networking, HORIZON Dashboard, KEYSTONE Identity Services, GLANCE Image Service
+- Study advanced features like Deployment Tools, VM Orchestration, Metering and Data Collection Services, Object Store, and Database as a Service
+- Deploy PUPPET Configuration Management Tool and TROVE Database as a Service
